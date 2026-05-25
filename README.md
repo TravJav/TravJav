@@ -25,15 +25,23 @@ A systems-minded engineer specializing in building, scaling, and hardening infra
 
 ---
 ### ⚙️ Embedded Systems & Hardware Engineering
-I bridge the gap between software and the physical world. I maintain a private, fully equipped embedded lab and am as comfortable debugging a signal on an oscilloscope as I am architecting a cloud API.
 
-Firmware Development: Proficient in C/C++ development for microcontrollers, including STM32 and AVR (ATmega) architectures. Experienced in writing performant, low-memory-footprint firmware for data acquisition and remote hardware control.
+I bridge the gap between bits and atoms. With a private, fully equipped embedded lab and a builder’s mindset, I am as comfortable debugging a signal on an oscilloscope as I am architecting a high-scale cloud API.
 
-Hardware Design: End-to-end PCB development using KiCad, from schematic capture and component selection to routing and DFM (Design for Manufacturing).
+Firmware Engineering:
 
-Lab Proficiency: Well-versed in hands-on hardware debugging using modern instrumentation, including oscilloscopes, logic analyzers, and function generators.
+* **ARM Cortex-M (STM32):**  Advanced firmware development for multi-sensor data acquisition, including VOC/environmental monitoring and IoT-based structural health systems for concrete durability detection.
 
-System Integration: Proven ability to build "bridge" systems—developing Flask/FastAPI backend services that interface directly with embedded devices to handle data ingestion, remote command execution, and state monitoring.
+* **AVR (ATmega)** Custom bare-metal firmware development for precision instrumentation, including complex logic for multi-gas detection systems.
+
+Optimization: Focused on writing performant, low-memory-footprint C/C++ code for real-time data acquisition and low-power hardware control.
+
+Hardware Design: End-to-end PCB development using KiCad, encompassing schematic capture, component selection, signal integrity optimization, and Design for Manufacturing (DFM) principles.
+
+Lab & Debugging Proficiency: Experienced in hands-on hardware troubleshooting using advanced instrumentation, including oscilloscopes, logic analyzers, and function generators to isolate and resolve physical-layer faults.
+
+System Integration: Proven ability to build "bridge" systems—developing Flask/FastAPI backend services that interface directly with embedded devices to handle seamless data ingestion, remote command execution, and real-time state monitoring.
+
 
 ### 🚀 Highlighted Framework & Systems
 
