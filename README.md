@@ -24,7 +24,7 @@ A systems-minded engineer specializing in building, scaling, and hardening infra
 * **Specialties:** High-throughput APIs, cross-platform mobile apps, cloud-native deployments, and decoupled architectures.
 
 ---
-=== ⚙️ Embedded Systems & Hardware Engineering
+### ⚙️ Embedded Systems & Hardware Engineering
 I bridge the gap between software and the physical world. I maintain a private, fully equipped embedded lab and am as comfortable debugging a signal on an oscilloscope as I am architecting a cloud API.
 
 Firmware Development: Proficient in C/C++ development for microcontrollers, including STM32 and AVR (ATmega) architectures. Experienced in writing performant, low-memory-footprint firmware for data acquisition and remote hardware control.
