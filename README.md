@@ -24,6 +24,16 @@ A systems-minded engineer specializing in building, scaling, and hardening infra
 * **Specialties:** High-throughput APIs, cross-platform mobile apps, cloud-native deployments, and decoupled architectures.
 
 ---
+=== ⚙️ Embedded Systems & Hardware Engineering
+I bridge the gap between software and the physical world. I maintain a private, fully equipped embedded lab and am as comfortable debugging a signal on an oscilloscope as I am architecting a cloud API.
+
+Firmware Development: Proficient in C/C++ development for microcontrollers, including STM32 and AVR (ATmega) architectures. Experienced in writing performant, low-memory-footprint firmware for data acquisition and remote hardware control.
+
+Hardware Design: End-to-end PCB development using KiCad, from schematic capture and component selection to routing and DFM (Design for Manufacturing).
+
+Lab Proficiency: Well-versed in hands-on hardware debugging using modern instrumentation, including oscilloscopes, logic analyzers, and function generators.
+
+System Integration: Proven ability to build "bridge" systems—developing Flask/FastAPI backend services that interface directly with embedded devices to handle data ingestion, remote command execution, and state monitoring.
 
 ### 🚀 Highlighted Framework & Systems
 
